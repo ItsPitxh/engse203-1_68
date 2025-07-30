@@ -42,7 +42,7 @@ window.addEventListener("load", async () => {
   })
   await typeWriter(titleText, "Hi, I'm",30);
   highlightText.innerHTML += "&ensp;";
-  await typeWriter(highlightText, "Tanapat", 30);
+  await typeWriter(highlightText, "Peach", 30);
   highlightText.innerHTML += "<br>";
   await typeWriter(subtitleText, "Full Stack Developer", 30);
   subtitleText.innerHTML += "<br>";
